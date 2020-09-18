@@ -8,4 +8,5 @@ git clone https://github.com/VundleVim/Vundle.vim &&
 git clone https://github.com/initrc/eclim-vundle &&
 git clone https://github.com/preservim/nerdtree &&
 git clone https://github.com/ycm-core/YouCompleteMe &&
-git clone https://github.com/ryanoasis/vim-devicons
+git clone https://github.com/ryanoasis/vim-devicons &&
+git clone https://github.com/flazz/vim-colorschemes
